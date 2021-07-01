@@ -8,6 +8,7 @@ I am Ziyue, a master student at KU Leuven who have two cute cats🐱.
 - 🤔 I’m looking for help with Econ Phd app.
 - 💬 Ask me about anything.
 - 📫 How to reach me: ziyue.zhu16@gmail.com
+- 🕸️ Personal website: www.zhuziyue.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my cat typed these words.
 
