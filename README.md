@@ -2,6 +2,8 @@
 
 I am Ziyue, a master student at KU Leuven who have two cute cats🐱.
 
+<img src="https://github.com/ziyue16/ziyue16/blob/main/WechatIMG56019.jpeg>
+
 ![](https://github.com/ziyue16/cats/blob/main/WechatIMG56019.jpeg）
 
 - 🔭 I’m currently working on my courses and master thesis (on meta and Stata programming 💻).
