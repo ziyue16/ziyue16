@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I am Ziyue, a master student at KU Leuven who have two cute cats🐱.
+          
+<img src="https://raw.githubusercontent.com/ziyue16/ziyue16/main/WechatIMG56019.jpeg" height="240" width="480">
 
-<img src="https://github.com/ziyue16/ziyue16/blob/main/WechatIMG56019.jpeg>
 
 ![](https://raw.githubusercontent.com/ziyue16/ziyue16/main/WechatIMG56019.jpeg）
 
