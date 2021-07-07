@@ -14,7 +14,8 @@ I am Ziyue, a master student at KU Leuven who have two cute cats🐱.
 
 <img src="https://raw.githubusercontent.com/ziyue16/ziyue16/main/WechatIMG56019.jpeg" height="480" width="480">
 
-![Ziyue's github stats](https://github-readme-stats.vercel.app/api?username=ziyue16&show_icons=true&theme=radical) 
+<!--![Ziyue's github stats](https://github-readme-stats.vercel.app/api?username=ziyue16&show_icons=true&theme=radical)
+-->
 
 <!--
 **ziyue16/ziyue16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
