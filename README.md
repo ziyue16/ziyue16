@@ -3,13 +3,9 @@
 I am Ziyue, a master student at KU Leuven who have two cute cats🐱.      
 
 - 🔭 I’m currently working on my master thesis (on meta and Stata programming 💻).
-- 🌱 I’m currently learning how to write a economic journal paper.
 - 👯 I’m looking to collaborate on any project concerning labour economics/applying machine learning.
-- 🤔 I’m looking for help with Econ Phd applications.
-- 💬 Ask me about anything.
 - 📫 How to reach me: ziyue.zhu16@gmail.com
 - 🕸️ Personal website: www.zhuziyue.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: my cat typed these words.
 
 <img src="https://raw.githubusercontent.com/ziyue16/ziyue16/main/WechatIMG56019.jpeg" height="480" width="480">
