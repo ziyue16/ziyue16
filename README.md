@@ -3,7 +3,7 @@
 I am Ziyue, a master student at KU Leuven who have two cute cats🐱.      
 
 - 🔭 I’m currently working on my master thesis (on meta and Stata programming 💻).
-- 👯 I’m looking to collaborate on any project concerning labour economics/applying machine learning.
+- 👯 I’m looking to collaborate on any project concerning labour economics/applied machine learning.
 - 📫 How to reach me: ziyue.zhu16@gmail.com
 - 🕸️ Personal website: www.zhuziyue.com
 - ⚡ Fun fact: my cat typed these words.
