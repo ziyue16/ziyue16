@@ -2,7 +2,7 @@
 
 I am Ziyue, a PhD candidate at the Research Centre for Education and the Labour Market (ROA) at Maastricht University.      
 
-- 👯 I’m looking to collaborate on any project concerning labour economics/applied machine learning.
+- 👯 I’m looking to collaborate on projects concerning labour economics/applied machine learning.
 - 📫 How to reach me: ziyue.zhu@maastrichtuniversity.nl
 - 🕸️ Personal website: www.zhuziyue.com
 - ⚡ Fun fact: my cat Flora can fix the laptop.
